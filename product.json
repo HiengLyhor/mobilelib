@@ -1,0 +1,83 @@
+{
+  "ArrayOfProduct": {
+    "Product": [
+      {
+        "Category": "Phone",
+        "Code": 855001,
+        "Description": "Available with 128, 256, 512GB.",
+        "Name": "iPhone 12 Pro",
+        "OtherDescription": "Color: Silver, Graphite, Gold, Pacific blue",
+        "Price": 799,
+        "Processing": "six-core A14 Bionic",
+        "Ram": "6GB",
+        "Storage": "128GB"
+      },
+      {
+        "Category": "Phone",
+        "Code": 855002,
+        "Description": "Available with 128, 256, 512GB and 1TB",
+        "Name": "iPhone 12 Pro Max",
+        "OtherDescription": "Color: Silver, Graphite, Gold, Pacific blue and Re",
+        "Price": 999,
+        "Processing": "six-core A16 Bionic",
+        "Ram": "8GB",
+        "Storage": "512GB"
+      },
+      {
+        "Category": "Phone",
+        "Code": 855003,
+        "Description": "camera 50MP 1080p",
+        "Name": "Oppo A58",
+        "OtherDescription": "black, green",
+        "Price": 199,
+        "Processing": "Android Chip 2th Gen",
+        "Ram": "6GB",
+        "Storage": "128GB"
+      },
+      {
+        "Category": "Phone",
+        "Code": 855004,
+        "Description": "Brand new, with deactivate device",
+        "Name": "iPhone 13",
+        "OtherDescription": "Color: Red, White, Silver, Light Blue, Dark blue",
+        "Price": 1099,
+        "Processing": "Chip A16",
+        "Ram": "6GB",
+        "Storage": "256GB"
+      },
+      {
+        "Category": "Computer",
+        "Code": 955001,
+        "Description": "Available with 1TB, 2TB and 4TB",
+        "Name": "iMAC Gen 15th",
+        "OtherDescription": "Color: Silver and Gold.",
+        "Price": 1599,
+        "Processing": "3.3GHz quad-core",
+        "Ram": "16GB",
+        "Storage": "1TB"
+      },
+      {
+        "Category": "Computer",
+        "Code": 955002,
+        "Description": "Available with 1TB, 2TB and 4TB",
+        "Name": "ASUS Flip Book",
+        "OtherDescription": "Color: Black and White",
+        "Price": 1259,
+        "Processing": "Core i7 11th Gen",
+        "Ram": "16GB",
+        "Storage": "2TB"
+      },
+      {
+        "Category": "Computer",
+        "Code": 955003,
+        "Description": "GPU 3060 4GB, RGB Keyboard",
+        "Name": "MSI Gen 14th",
+        "OtherDescription": "Available with dark grey, white and black color.",
+        "Price": 899,
+        "Processing": "Core i7 12th Gen",
+        "Ram": "32GB",
+        "Storage": "2TB"
+      }
+    ]
+  }
+}
