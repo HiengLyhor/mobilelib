@@ -1,0 +1,13 @@
+{
+  "Product": {
+    "Category": "Phone",
+    "Code": "855002",
+    "Description": "Available with 128, 256, 512GB and 1TB",
+    "Name": "iPhone 12 Pro Max",
+    "OtherDescription": "Color: Silver, Graphite, Gold, Pacific blue and Re",
+    "Price": 999.0000,
+    "Processing": "six-core A16 Bionic",
+    "Ram": "8GB",
+    "Storage": "512GB"
+  }
+}
