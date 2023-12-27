@@ -1,0 +1,33 @@
+{
+    "productCategory": "Phone",
+    "productCode": "855002",
+    "productDescription": "Available with 128, 256, 512GB and 1TB",
+    "productName": "iPhone 12 Pro Max",
+    "productOtherDescription": "Color: Silver, Graphite, Gold, Pacific blue and Re",
+    "productPrice": 999.0000,
+    "productProcessing": "six-core A16 Bionic",
+    "productRam": "8GB",
+    "productStorage": "512GB"
+}
+{
+    "productCategory": "Phone",
+    "productCode": "855002",
+    "productDescription": "Available with 128, 256, 512GB and 1TB",
+    "productName": "iPhone 12",
+    "productOtherDescription": "Color: Silver, Graphite, Gold, Pacific blue and Re",
+    "productPrice": 599.0000,
+    "productProcessing": "six-core A16 Bionic",
+    "productRam": "8GB",
+    "productStorage": "512GB"
+}
+{
+    "productCategory": "Phone",
+    "productCode": "855002",
+    "productDescription": "Available with 128, 256, 512GB and 1TB",
+    "productName": "iPhone X",
+    "productOtherDescription": "Color: Silver, Graphite, Gold, Pacific blue and Re",
+    "productPrice": 399.0000,
+    "productProcessing": "six-core A16 Bionic",
+    "productRam": "8GB",
+    "productStorage": "512GB"
+}
