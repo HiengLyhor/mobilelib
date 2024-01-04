@@ -1,0 +1,79 @@
+[
+  {
+    "productCategory": "Phone",
+    "productCode": "855001",
+    "productDescription": "Available with 128, 256, 512GB.",
+    "productName": "iPhone 12 Pro",
+    "productOtherDescription": "Color: Silver, Graphite, Gold, Pacific blue",
+    "productPrice": 799.0000,
+    "productProcessing": "six-core A14 Bionic",
+    "productRam": "6GB",
+    "productStorage": "128GB"
+  },
+  {
+    "productCategory": "Phone",
+    "productCode": "855002",
+    "productDescription": "Available with 128, 256, 512GB and 1TB",
+    "productName": "iPhone 12 Pro Max",
+    "productOtherDescription": "Color: Silver, Graphite, Gold, Pacific blue and Re",
+    "productPrice": 999.0000,
+    "productProcessing": "six-core A16 Bionic",
+    "productRam": "8GB",
+    "productStorage": "512GB"
+  },
+  {
+    "productCategory": "Phone",
+    "productCode": "855003",
+    "productDescription": "camera 50MP 1080p",
+    "productName": "Oppo A58",
+    "productOtherDescription": "black, green",
+    "productPrice": 199.0000,
+    "productProcessing": "Android Chip 2th Gen",
+    "productRam": "6GB",
+    "productStorage": "128GB"
+  },
+  {
+    "productCategory": "Phone",
+    "productCode": "855004",
+    "productDescription": "Brand new, with deactivate device",
+    "productName": "iPhone 13",
+    "productOtherDescription": "Color: Red, White, Silver, Light Blue, Dark blue",
+    "productPrice": 1099.0000,
+    "productProcessing": "Chip A16",
+    "productRam": "6GB",
+    "productStorage": "256GB"
+  },
+  {
+    "productCategory": "Computer",
+    "productCode": "955001",
+    "productDescription": "Available with 1TB, 2TB and 4TB",
+    "productName": "iMAC Gen 15th",
+    "productOtherDescription": "Color: Silver and Gold.",
+    "productPrice": 1599.0000,
+    "productProcessing": "3.3GHz quad-core",
+    "productRam": "16GB",
+    "productStorage": "1TB"
+  },
+  {
+    "productCategory": "Computer",
+    "productCode": "955002",
+    "productDescription": "Available with 1TB, 2TB and 4TB",
+    "productName": "ASUS Flip Book",
+    "productOtherDescription": "Color: Black and White",
+    "productPrice": 1259.0000,
+    "productProcessing": "Core i7 11th Gen",
+    "productRam": "16GB",
+    "productStorage": "2TB"
+  },
+  {
+    "productCategory": "Computer",
+    "productCode": "955003",
+    "productDescription": "GPU 3060 4GB, RGB Keyboard",
+    "productName": "MSI Gen 14th",
+    "productOtherDescription": "Available with dark grey, white and black color.",
+    "productPrice": 899.0000,
+    "productProcessing": "Core i7 12th Gen",
+    "productRam": "32GB",
+    "productStorage": "2TB"
+  }
+]
