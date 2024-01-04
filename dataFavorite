@@ -1,0 +1,79 @@
+[
+  {
+    "productCategory": "Laptop",
+    "productCode": "123456",
+    "productDescription": "High-performance laptop with 4K display",
+    "productName": "Vortex Pro X",
+    "productOtherDescription": "Color: Midnight Blue",
+    "productPrice": 1299.0000,
+    "productProcessing": "Octa-core Processor",
+    "productRam": "16GB",
+    "productStorage": "512GB SSD"
+  },
+  {
+    "productCategory": "Smartwatch",
+    "productCode": "789012",
+    "productDescription": "Water-resistant smartwatch with fitness tracking",
+    "productName": "Aqua Fit Watch",
+    "productOtherDescription": "Color: Coral Pink",
+    "productPrice": 199.0000,
+    "productProcessing": "Dual-core Chip",
+    "productRam": "4GB",
+    "productStorage": "64GB"
+  },
+  {
+    "productCategory": "Camera",
+    "productCode": "345678",
+    "productDescription": "Professional-grade camera with 50MP sensor",
+    "productName": "Capture Pro X",
+    "productOtherDescription": "Color: Graphite Black",
+    "productPrice": 899.0000,
+    "productProcessing": "Advanced Image Processor",
+    "productRam": "8GB",
+    "productStorage": "256GB"
+  },
+  {
+    "productCategory": "Tablet",
+    "productCode": "901234",
+    "productDescription": "Ultra-slim tablet with edge-to-edge display",
+    "productName": "Infinity Tab S",
+    "productOtherDescription": "Color: Mystic Silver",
+    "productPrice": 549.0000,
+    "productProcessing": "Hexa-core Processor",
+    "productRam": "12GB",
+    "productStorage": "128GB"
+  },
+  {
+    "productCategory": "Headphones",
+    "productCode": "567890",
+    "productDescription": "Wireless headphones with noise cancellation",
+    "productName": "Silent Harmony",
+    "productOtherDescription": "Color: Midnight Blue",
+    "productPrice": 129.0000,
+    "productProcessing": "Custom Audio Processor",
+    "productRam": "N/A",
+    "productStorage": "N/A"
+  },
+  {
+    "productCategory": "Gaming Console",
+    "productCode": "234567",
+    "productDescription": "Next-gen gaming console with 4K support",
+    "productName": "Quantum Gaming X",
+    "productOtherDescription": "Color: Nebula Red",
+    "productPrice": 499.0000,
+    "productProcessing": "Octa-core GPU",
+    "productRam": "16GB",
+    "productStorage": "1TB SSD"
+  },
+  {
+    "productCategory": "VR Headset",
+    "productCode": "678901",
+    "productDescription": "Immersive VR headset with motion tracking",
+    "productName": "Virtual Visionary",
+    "productOtherDescription": "Color: Stealth Black",
+    "productPrice": 349.0000,
+    "productProcessing": "Dual 4K Displays",
+    "productRam": "8GB",
+    "productStorage": "256GB"
+  }
+]
